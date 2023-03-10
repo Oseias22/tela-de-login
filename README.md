@@ -1,2 +1,2 @@
 # tela-de-login
-Essa é a frente de uma tela de login, porém com cores bem vivas. 
+Essa é uma tela de login que fiz utilizando html e css para praticar.
